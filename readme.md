@@ -11,9 +11,9 @@ optimization is used respectively.
 
 #### Compile
 
-'gcc kmeans.c -o kmeans -O3 -fopenmp'
+`gcc kmeans.c -o kmeans -O3 -fopenmp`
 
 ###### Todo:
 
--Load vectors from a file
--Initialize centers randomly (not needed for the time)
+- Load vectors from a file
+- Initialize centers randomly (not needed for the time)
